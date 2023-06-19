@@ -1,0 +1,21 @@
+.table {
+  width: 700px;
+  height: 700px;
+  background-color: aqua;
+}
+.tr {
+  border: 1px solid black;
+}
+td {
+  background-color: azure;
+}
+.info {
+  border: 2px solid aqua;
+  background-color: rgba(0, 255, 255, 0.478);
+  color: grey;
+  text-transform: uppercase;
+}
+span {
+  color: rgba(28, 60, 60, 0.478);
+  font-weight: bolder;
+}
